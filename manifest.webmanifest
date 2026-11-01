@@ -1,0 +1,27 @@
+{
+  "name": "Workout JX · PPL + HIIT",
+  "short_name": "Workout JX",
+  "description": "Dein persönliches PPL Trainingstagebuch und HIIT Timer",
+  "lang": "de",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090e13",
+  "theme_color": "#0b1016",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
